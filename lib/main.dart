@@ -28,7 +28,8 @@ class MyAppTest extends State<MyApp>{
   Widget build(BuildContext context) {
 
     var questions=['What is Fav color ?','What is Fav Food ?'];
-    
+
+    var a=10;
     return MaterialApp(
         home: Scaffold(
       appBar: AppBar(
